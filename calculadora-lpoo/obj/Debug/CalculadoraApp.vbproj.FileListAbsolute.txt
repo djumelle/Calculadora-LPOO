@@ -1,0 +1,13 @@
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\bin\Debug\CalculeitorApp.exe.config
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\bin\Debug\CalculeitorApp.exe
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\bin\Debug\CalculeitorApp.pdb
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\bin\Debug\CalculeitorApp.xml
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculadoraApp.vbproj.AssemblyReference.cache
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculadoraApp.vbproj.SuggestedBindingRedirects.cache
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculeitorApp.Form1.resources
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculeitorApp.Resources.resources
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculadoraApp.vbproj.GenerateResource.cache
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculadoraApp.vbproj.CoreCompileInputs.cache
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculeitorApp.exe
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculeitorApp.xml
+D:\Bajados web\Calculadora-Lpoo-main\calculadora-lpoo\obj\Debug\CalculeitorApp.pdb
